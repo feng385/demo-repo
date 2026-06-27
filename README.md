@@ -2,4 +2,4 @@ first day!
 
 edited in vscode
 
-practice git add
+practice git add/commit/push
